@@ -61,4 +61,4 @@ const codeInfo = ghanaLocations.getDataByCode("GA");
 - Contains all 16 Regions and 261 Districts.
 
 ## License
-ISC
+MIT
