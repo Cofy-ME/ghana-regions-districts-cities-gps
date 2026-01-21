@@ -1,0 +1,21 @@
+{
+  "name": "ghana-regions-districts-cities-gps",
+  "version": "1.0.0",
+  "description": "A comprehensive dataset of Ghana's regions, districts, and cities with GPS codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ghana",
+    "regions",
+    "districts",
+    "cities",
+    "gps",
+    "locations",
+    "africa",
+    "data"
+  ],
+  "author": "Edwin",
+  "license": "ISC"
+}
